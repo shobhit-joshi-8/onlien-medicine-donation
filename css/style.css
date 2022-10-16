@@ -51,18 +51,10 @@ nav {
     background-color: #ffffff;
 }/*
 
-.home-image {
-    background-image: url("C:/shobhit joshi/online medicine/images/my project.jpg");
-    width: 100%;
-    min-height: 700px;
-    
-    
-}
 /*  ---------------------------------section-------------------------*/
-
 .bg { 
     /* The image used */
-    background-image: url("C:/shobhit joshi/online medicine/images/my project.jpg");
+    background-image: url("C:/shobhit joshi/online-medicine-donation/images/my project.jpg");
   
     /* Full height */
     height: 100vh; 
@@ -71,4 +63,28 @@ nav {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+  #bg-donate {
+    color: #ffffff;
+    font-size: 3.5rem;
+    font-weight: 800;
+    padding-top: 214px;
+    margin-bottom: 0%;
+  }
+
+  #bg-tagline {
+    color: #ffffff;
+    font-size: 20px;
+  }
+
+  #donate-now {
+    color: #ffffff;
+    background-color: #FDBE34;
+    padding: 15px 35px;
+    text-decoration: none;
+  }
+
+  #donate-now:hover {
+    background-color: #a64ac9;
   }
