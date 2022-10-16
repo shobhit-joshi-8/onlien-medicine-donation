@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Permanent+Marker&family=Poppins:ital,wght@0,300;0,400;0,500;0,800;0,900;1,700&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background-color: #000000;
+    font-family: 'Kanit', sans-serif;
+    color: #ffffff;
+}
+.navbar-brand {
+    font-size: 40px;
+    color: #ffffff;
+}
+.navbar-brand:hover{
+    color: #ffffff;
+}
+.nav-item {
+    padding-left: 33px;
+}
+
+.nav-item a:hover {
+    color: #5B5B5B;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+#home {
+    color: #f7cb6d;
+}
+
+#donate {
+    background-color: #FDBE34;
+    padding: 10px 25px;
+    border-radius: 2px;
+}
+
+#donate:hover {
+    color: #ffffff;
+    background-color: #a64ac9;
+
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff;
+}/*
+
+.home-image {
+    background-image: url("C:/shobhit joshi/online medicine/images/my project.jpg");
+    width: 100%;
+    min-height: 700px;
+    
+    
+}
+/*  ---------------------------------section-------------------------*/
+
+.bg { 
+    /* The image used */
+    background-image: url("C:/shobhit joshi/online medicine/images/my project.jpg");
+  
+    /* Full height */
+    height: 100vh; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
